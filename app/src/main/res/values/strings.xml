@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InicioGoogle</string>
+    <string name="iniciotxt">Inicio de Sesión</string>
+    <string name="bienvenidotxt">BIENVENIDO</string>
+    <string name="ejemploNombretxt">NOMBRE APELLIDO</string>
+    <string name="ejemploEmailtxt">NOMBRE@Email.com</string>
+    <string name="cerrarSesiontxt">Cerrar Sesión</string>
+</resources>
